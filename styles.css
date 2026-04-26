@@ -1,0 +1,9 @@
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.container {
+  max-width: 680px;
+  margin: 0 auto 2rem;
+}
